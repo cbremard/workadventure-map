@@ -151,7 +151,7 @@
          "height":47,
          "id":54,
          "name":"exit_pub",
-         "opacity":0.24,
+         "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
