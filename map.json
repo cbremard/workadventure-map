@@ -94,6 +94,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"exitInstance",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"\/pub.json"
+                }, 
+                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"\/pub.json"

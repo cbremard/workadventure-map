@@ -22,6 +22,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"exitInstance",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"\/map.json"
+                }, 
+                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"\/map.json"
