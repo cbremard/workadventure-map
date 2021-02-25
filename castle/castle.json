@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/maps.json"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
