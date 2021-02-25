@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -29,12 +36,12 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/map.json"
+                 "value":".\/map.json"
                 }, 
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map.json"
+                 "value":".\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
